@@ -17,6 +17,7 @@ A web application that predicts flight prices in Bangladesh using machine learni
 - Python 3.8 or higher
 - pip (Python package installer)
 - Virtual environment (recommended)
+  https://drive.google.com/file/d/1e_9Zh-zi8wB6O8QKa14XsB7z410iC6Hu/view?usp=drive_link
 
 ## Installation
 
