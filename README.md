@@ -119,6 +119,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Mst Epti Ara Era
 
 Project Link: [https://github.com/yourusername/Flight-Price-Prediction-Using-Machine-Learning-Approach](https://github.com/yourusername/Flight-Price-Prediction-Using-Machine-Learning-Approach)
