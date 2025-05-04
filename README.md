@@ -53,6 +53,7 @@ Flight-Price-Prediction-Using-Machine-Learning-Approach/
 ├── best_flight_price_model.tkl    # Trained model
 └── flight_price_scaler.tkl        # Feature scaler
 ```
+![Screenshot 2025-05-04 090254](https://github.com/user-attachments/assets/9a47453a-3d43-4d26-91dc-6b4bce718faa)
 
 ## Usage
 
